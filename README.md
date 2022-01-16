@@ -23,5 +23,5 @@ We will be using the " deep learning to identify the main points of the face " D
 Jupyter, Matplotlib ,Seaborn, Pandas, sklearn, os ,pathlib ,numpy,PIL., glob ,tensorflow ,keras ,pickle ,cv2.
 
 ## BY:
-Rana Alturki
-Reem bin Zeriban
+>Rana Alturki
+>Reem bin Zeriban

@@ -20,7 +20,7 @@ We will be using the " deep learning to identify the main points of the face " D
 
 ## Tools:
 
-Jupyter, Matplotlib ,Seaborn, Pandas, sklearn, os ,pathlib ,numpy,PIL., glob ,tensorflow ,keras ,pickle ,cv2.
+Jupyter, Matplotlib, Seaborn, Pandas, sklearn, OS, pathlib, numpy, PIL, glob, tensorflow, keras, pickle, cv2.
 
 ## BY:
 >Rana Alturki

@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/93121386/149677766-180aa349-7e09-44da-a32c-4b5a3353408a.png)
 
+
 ## Introduction:
 
 Facial recognition is a way of identifying or confirming an individual’s identity using their face. Facial recognition systems can be used to identify people in photos  
